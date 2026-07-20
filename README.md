@@ -31,6 +31,6 @@ This project analyzes my Spotify listening history throughout 2025 to uncover mu
 - The difference between Top Artists and Top Tracks suggests strong loyalty to a few favorite artists while maintaining diverse music exploration.
 
 ## Dashboard
-![alt text](spotify-listening-history-analysis/Spotify-Listening-History-Analysis/dashboard/Spotify-Listening-Activity-Dashboard.png) 
+<img width="1366" height="1500" alt="Spotify Listening Activity Dashboard" src="https://github.com/user-attachments/assets/81696aa1-a1ff-4687-85ad-258066d5b286" />
 
-https://public.tableau.com/views/ListeningHistoryDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link: https://public.tableau.com/views/ListeningHistoryDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
